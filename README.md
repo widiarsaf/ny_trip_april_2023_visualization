@@ -28,8 +28,8 @@ B. Visualize Data with Looker Studio
 
 Here is an example visualization that I have created using Looker Studio. This is the result of my learning journey with Mr. Ricky Nauvaldy Ruliputra in the Data Engineering Fellowship Program 10 by IYKRA.
 
-<img src="Viz_01.jpg" alt="isolated" />
-<img src="Viz_02.jpg" alt="isolated" />
 
-<hr>
+![NYC-Taxi-Trips-April-2023](NYC-Taxi-Trips-April-2023.jpg)
+
+
 Or you can just visit this Link : [Visualization with Looker Studio and BigQuery](https://lookerstudio.google.com/reporting/b556a676-d989-4a7d-857f-112380d1dab0)
